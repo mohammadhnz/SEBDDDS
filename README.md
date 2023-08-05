@@ -12,3 +12,12 @@
 
 
 ## بخش دوم
+برای انجام این بخش ابتدا توابع را به کلاس Calculator اضافه میکنیم:
+![image](https://github.com/mohammadhnz/SEBDDDS/assets/59181719/d508843d-b7d1-41fc-9a22-b101398eab6d)
+سپس تست‌ها را اضافه میکنیم:
+![image](https://github.com/mohammadhnz/SEBDDDS/assets/59181719/a0904b90-a41b-4be3-bada-4bed2d591701)
+![image](https://github.com/mohammadhnz/SEBDDDS/assets/59181719/d1f0f58b-99f1-4d71-bbf0-a28e1429620a)
+![image](https://github.com/mohammadhnz/SEBDDDS/assets/59181719/3d1b147e-0748-48db-ac8a-8a7eaed00aa7)
+
+در نهایت نتیجه اجرا:
+ ![image](https://github.com/mohammadhnz/SEBDDDS/assets/59181719/7b819647-d6a7-40cc-a32a-a5af1e2b5191)
